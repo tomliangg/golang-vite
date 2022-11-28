@@ -16,5 +16,5 @@ go run ./cmd/web
 
 ```bash
 # start vite server:
-npm run dev
+cd ui && npm run dev
 ```
